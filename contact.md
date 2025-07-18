@@ -5,5 +5,5 @@ title: Contact
 
 ## Contact
 
-Email: rajeev@example.com  
+Email: rajeevrajak@hotmail.com 
 GitHub: [rajeevcryo](https://github.com/rajeevcryo)
