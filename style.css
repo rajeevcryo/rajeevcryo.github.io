@@ -1,0 +1,57 @@
+:root {
+  --color-1: #000000;   /* Black */
+  --color-2: #d2ecfa;   /* Pale sky blue */
+  --color-3: #007a95;   /* Teal blue */
+  --color-4: #00b8ee;   /* Bright cyan */
+  --color-5: #d1ebf9;   /* Light baby blue */
+  --color-6: #b6ccd9;   /* Soft blue-gray */
+  --color-7: #d3edfb;   /* Icy blue */
+  --color-8: #007994;   /* Deep teal */
+  --color-9: #010101;   /* Near black */
+  --color-10: #d8f3ff;  /* Very pale blue */
+}
+
+body {
+  background-color: var(--color-5);
+  color: var(--color-1);
+  font-family: sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  background-color: var(--color-3);
+  color: white;
+  padding: 1rem;
+  text-align: center;
+}
+
+nav {
+  background-color: var(--color-6);
+  padding: 0.5rem;
+  text-align: center;
+}
+
+nav a {
+  margin: 0 1rem;
+  text-decoration: none;
+  color: var(--color-1);
+}
+
+main {
+  padding: 2rem;
+}
+
+section {
+  background-color: var(--color-10);
+  padding: 1rem;
+  margin-bottom: 2rem;
+  border-radius: 5px;
+}
+
+footer {
+  background-color: var(--color-8);
+  color: white;
+  text-align: center;
+  padding: 1rem;
+}
