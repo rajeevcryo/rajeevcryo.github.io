@@ -37,5 +37,5 @@ I currently work as a Senior Research Fellow, DST's Center of Excellence in Wate
 ## Professional Links
 - [CV (PDF)](/assets/cv.pdf)
 - [ORCID](https://orcid.org/my-orcid?orcid=0000-0001-7672-6631)
-- [Google Scholar]((https://scholar.google.com/citations?hl=en&user=d9GVPYMAAAAJ))
+- [Google Scholar](https://scholar.google.com/citations?hl=en&user=d9GVPYMAAAAJ)
 - [ResearchGate](https://www.researchgate.net/profile/Rajeev-Rajak-2?ev=hdr_xprf)
